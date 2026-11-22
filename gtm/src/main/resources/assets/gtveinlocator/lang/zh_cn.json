@@ -1,0 +1,21 @@
+{
+  "itemGroup.gtveinlocator": "GT 矿脉定位器",
+  "item.gtveinlocator.vein_locator": "GT 矿脉定位器",
+  "item.gtveinlocator.advanced_vein_locator": "高级 GT 矿脉定位器",
+  "item.gtveinlocator.elite_vein_locator": "精英 GT 矿脉定位器",
+  "item.gtveinlocator.detection_core_lv": "LV 探测核心",
+  "item.gtveinlocator.detection_core_mv": "MV 探测核心",
+  "item.gtveinlocator.detection_core_hv": "HV 探测核心",
+
+  "tooltip.gtveinlocator.tier": "等级：%s",
+  "tooltip.gtveinlocator.radius": "搜索半径：%s 区块",
+  "tooltip.gtveinlocator.all": "范围内所有矿脉原点",
+  "tooltip.gtveinlocator.fluid": "额外扫描当前 8×8 流体区域",
+
+  "msg.gtveinlocator.header": "半径 %2$s 区块内共 %1$s 个矿脉原点：",
+  "msg.gtveinlocator.none": "范围内没有找到矿脉原点。",
+  "msg.gtveinlocator.fluid_header": "区块 %2$s, %3$s 的流体区域：%1$s",
+  "msg.gtveinlocator.fluid_none": "当前 8×8 区域内没有基岩流体矿脉。",
+  "msg.gtveinlocator.fluid_stats": "区块数：%s   产量：%s L/t   作业数：%s   枯竭区块：%s",
+  "msg.gtveinlocator.waypoints": "已创建定位器路径点"
+}

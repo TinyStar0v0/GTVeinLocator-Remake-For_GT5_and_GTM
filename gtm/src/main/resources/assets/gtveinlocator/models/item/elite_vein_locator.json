@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "gtveinlocator:item/elite_vein_locator"
+  }
+}

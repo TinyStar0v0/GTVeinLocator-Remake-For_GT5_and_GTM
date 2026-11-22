@@ -1,0 +1,21 @@
+{
+  "itemGroup.gtveinlocator": "GT Vein Locator",
+  "item.gtveinlocator.vein_locator": "GT Vein Locator",
+  "item.gtveinlocator.advanced_vein_locator": "Advanced GT Vein Locator",
+  "item.gtveinlocator.elite_vein_locator": "Elite GT Vein Locator",
+  "item.gtveinlocator.detection_core_lv": "LV Detection Core",
+  "item.gtveinlocator.detection_core_mv": "MV Detection Core",
+  "item.gtveinlocator.detection_core_hv": "HV Detection Core",
+
+  "tooltip.gtveinlocator.tier": "Tier: %s",
+  "tooltip.gtveinlocator.radius": "Search radius: %s chunks",
+  "tooltip.gtveinlocator.all": "All vein origins in radius",
+  "tooltip.gtveinlocator.fluid": "Also scans the current 8x8 fluid region",
+
+  "msg.gtveinlocator.header": "Vein origins within %s chunks: %s",
+  "msg.gtveinlocator.none": "No ore vein origin found in range.",
+  "msg.gtveinlocator.fluid_header": "Fluid region at chunk %s, %s: %s",
+  "msg.gtveinlocator.fluid_none": "No bedrock fluid vein in the current 8x8 region.",
+  "msg.gtveinlocator.fluid_stats": "Chunks: %s   Yield: %s L/t   Operations: %s   Depleted chunks: %s",
+  "msg.gtveinlocator.waypoints": "Locator waypoints created"
+}

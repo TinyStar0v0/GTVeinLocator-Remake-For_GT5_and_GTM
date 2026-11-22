@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "SCS",
+    "EQE",
+    "PPP"
+  ],
+  "key": {
+    "S": {
+      "item": "gtceu:mv_sensor"
+    },
+    "C": {
+      "tag": "gtceu:circuits/mv"
+    },
+    "E": {
+      "item": "gtceu:mv_emitter"
+    },
+    "Q": {
+      "tag": "gtveinlocator:any_quartz"
+    },
+    "P": {
+      "item": "gtceu:steel_plate"
+    }
+  },
+  "result": {
+    "item": "gtveinlocator:detection_core_mv",
+    "count": 1
+  }
+}
